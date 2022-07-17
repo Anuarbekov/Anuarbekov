@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on IsInsta.com project.<br>My last project on React: https://kto-v-skandale.vercel.app/ <br> Looking for help with ReactJS and NextJS.<br>I'm currently learning and practicing ReactJS, NextJS and ExpressJS.<br>Fun fact about me that I'm good at football, volleyball and basketball.
+I'm currently working on IsInsta.com project.<br>My last project on React: https://kto-v-skandale.vercel.app/ <br> Looking for help with ReactJS and NextJS.<br>I'm currently learning and practicing ReactJS, NextJS and ExpressJS.<br>Fun fact about me is that I'm good at football, volleyball and basketball.
 
 
 ## 🌐 Socials:
