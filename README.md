@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react, next, vite**
 
-- 📫 How to reach me **mikonek.a@gmail.com**
+- 📫 How to reach me **meir.anuarbekov@nu.edu.kz**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1u2DghLMXIe1riFjpwyvRNR1RCcpkSEye/view?usp=sharing](https://drive.google.com/file/d/1u2DghLMXIe1riFjpwyvRNR1RCcpkSEye/view?usp=sharing)
 
