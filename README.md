@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Meir</h1>
 <h3 align="center">A passionate full-stack/frontend developer from Kazakhstan</h3>
 
-- 🔭 I’m currently working [unlock.ai](https://unlock-ai.org)
+- 🔭 I’m currently working on [unlock.ai](https://unlock-ai.org)
 
 - 🌱 I’m currently getting experience in **vite, nest, vue**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-meir.vercel.app/](https://portfolio-meir.vercel.app/)
 
-- 📝 I regularly write articles on [https://t.me/meyirim_channel](https://t.me/meyirim_channel)
+- 📝 I regularly write articles here: [https://t.me/meyirim_channel](https://t.me/meyirim_channel)
 
 - 📫 How to reach me **meir.anuarbekov@nu.edu.kz**
 
