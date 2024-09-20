@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meir</h1>
 <h3 align="center">A passionate full-stack/frontend developer from Kazakhstan</h3>
 
-- 🔭 I’m currently working on [unlock.ai](https://unlock-ai.org)
+- 🔭 I’m currently studying at [Nazarbayev University](https://nu.edu.kz/ru)
 
 - 🌱 I’m currently getting experience in **vite, nest, vue**
 
