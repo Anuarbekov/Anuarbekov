@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Meir</h1>
-<h3 align="center">A passionate full-stack/frontend developer from Kazakhstan</h3>
+<h3 align="center">A passionate full-stack developer from Kazakhstan</h3>
 
 - 🔭 I’m currently studying at [Nazarbayev University](https://nu.edu.kz/ru)
 
-- 🌱 I’m currently getting experience in **vite, nest, vue**
+- 🌱 I’m currently getting experience in **react, nest, react native**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-meir.vercel.app/](https://portfolio-meir.vercel.app/)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **meir.anuarbekov@nu.edu.kz**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1u2DghLMXIe1riFjpwyvRNR1RCcpkSEye/view?usp=sharing](https://drive.google.com/file/d/1u2DghLMXIe1riFjpwyvRNR1RCcpkSEye/view?usp=sharing)
+- 📄 My [CV](https://drive.google.com/file/d/1pQQ6VLSRbJgLag3sifNst2OMCwXFmdkZ/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
